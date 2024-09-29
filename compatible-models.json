@@ -24,7 +24,7 @@
     {
       "name": "Test Model",
       "description": "For developer testing only. Actually Llama 3.2 1b",
-      "fileSize": "0 GB",
+      "fileSize": "0.7 GB",
       "icon": "fa-solid fa-code",
       "downloadUrl": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_0.gguf"
     }
