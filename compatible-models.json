@@ -20,6 +20,13 @@
       "fileSize": "4.7 GB",
       "icon": "fa-solid fa-wand-magic-sparkles",
       "downloadUrl": "https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/resolve/main/mistral-7b-v0.1.Q5_0.gguf"
+    },
+    {
+      "name": "Test Model",
+      "description": "For developer testing only. Actually Llama 3.2 1b",
+      "fileSize": "0 GB",
+      "icon": "fa-solid fa-code",
+      "downloadUrl": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_0.gguf"
     }
   ]
 }
