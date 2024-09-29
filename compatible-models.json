@@ -2,10 +2,17 @@
   "models": [
     {
       "name": "Meta Llama 3.1 8B",
-      "description": "Full-featured, accurate, but not stable (Recommended)",
+      "description": "Reasonably accurate, but not stable (Recommended)",
       "fileSize": "4.6 GB",
       "icon": "fa-brands fa-meta",
       "downloadUrl": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"
+    },
+    {
+      "name": "Meta Llama 3.1 70b",
+      "description": "Full-featured, very heavy (Only for High-End Systems!)",
+      "fileSize": "40.3 GB",
+      "icon": "fa-brands fa-meta",
+      "downloadUrl": "https://huggingface.co/bartowski/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_L.gguf"
     },
     {
       "name": "Meta Llama 3.2 3b",
