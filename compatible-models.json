@@ -8,14 +8,14 @@
       "downloadUrl": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"
     },
     {
-      "name": "Meta Llama 3.1 70b",
+      "name": "Meta Llama 3.1 70B",
       "description": "Full-featured, very heavy (Only for High-End Systems!)",
       "fileSize": "40.3 GB",
       "icon": "fa-brands fa-meta",
       "downloadUrl": "https://huggingface.co/bartowski/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_L.gguf"
     },
     {
-      "name": "Meta Llama 3.2 3b",
+      "name": "Meta Llama 3.2 3B",
       "description": "Light weight, small, but inaccurate and limited vocabulary",
       "fileSize": "3.2 GB",
       "icon": "fa-brands fa-meta",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Test Model",
-      "description": "For developer testing only. Actually Llama 3.2 1b",
+      "description": "For developer testing only. Actually Llama 3.2 1B",
       "fileSize": "0.7 GB",
       "icon": "fa-solid fa-code",
       "downloadUrl": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_0.gguf"
