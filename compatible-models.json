@@ -16,7 +16,7 @@
     },
     {
       "name": "Meta Llama 3.2 3B",
-      "description": "Light weight, small, but inaccurate and limited vocabulary",
+      "description": "Light weight, fast, but inaccurate and limited vocabulary",
       "fileSize": "3.2 GB",
       "icon": "fa-brands fa-meta",
       "downloadUrl": "https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q8_0.gguf"
